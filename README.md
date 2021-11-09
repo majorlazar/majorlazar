@@ -16,7 +16,7 @@
 
 ## Reach me out📬 
 
-
+<p align="center">
 <a href="https://www.linkedin.com/in/christylazar-antony-6b39511b6/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Christylazar_Antony" height="30" width="40" /></a> 
 
 <a href="https://www.instagram.com/m_a_j_o_r_lazar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="m_a_j_o_r_lazar" height="30" width="40" /></a>
@@ -24,6 +24,7 @@
 <a href="https://www.facebook.com/ChristylazarAntony007/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
 
  <a href = "mailto: majorchristylazar@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ </p>
 
 
 ## Languages and Tools💻
