@@ -50,9 +50,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)|![](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)|![](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)|![](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)|
+|![](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)|![](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)|![](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)|![](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)|![](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)|![](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)|![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)|![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)|![](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)|
 
 
 ## Github Stats
