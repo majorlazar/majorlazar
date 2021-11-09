@@ -57,14 +57,14 @@
 
 ## Github Stats
 
-[![Sreeram' github stats](https://github-readme-stats.vercel.app/api?username=sreeramcr00&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+[![Christylazar Antony's github stats](https://github-readme-stats.vercel.app/api?username=majorlazar&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramcr00&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Coding Stats
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sreeramcr00&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=majorlazar&theme=react-dark&hide_border=true&area=true)
 
 
 <!--START_SECTION:waka-->
