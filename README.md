@@ -54,9 +54,8 @@
 ## Github Stats
 
 [![Christylazar Antony's github stats](https://github-readme-stats.vercel.app/api?username=majorlazar&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramcr00&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=majorlazar&theme=tokyonight" alt="mystreak"/>
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramcr00&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 #### Coding Stats
 
 
