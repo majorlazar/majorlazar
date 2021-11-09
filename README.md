@@ -3,7 +3,6 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majorlazar&label=Profile%20views&color=0e75b6&style=flat" alt="majorlazar" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
