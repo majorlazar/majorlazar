@@ -16,6 +16,7 @@
 -💪🏼 Future Goals: Learn more technologies..Never stop creating new ideas.
 
 
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 ## Catch me on 📬 
 
 <p align="center">
