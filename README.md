@@ -16,7 +16,7 @@
 
 ## Reach me out📬 
 
-[![Linkedin Badge](https://img.shields.io/badge/-christylazar-antony-6b39511b6?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/christylazar-antony-6b39511b6/) [![Mail Badge](https://img.shields.io/badge/-majorchristylazar@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:majorchristylazar@gmailcom) [![Twitter Badge](https://img.shields.io/badge/-@m_a_j_o_r_lazar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/m_a_j_o_r_lazar)  
+[![Linkedin Badge](https://img.shields.io/badge/-Christylazar Antony-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/christylazar-antony-6b39511b6/)  [![Mail Badge](https://img.shields.io/badge/-majorchristylazar@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:majorchristylazar@gmailcom) [![Twitter Badge](https://img.shields.io/badge/-@m_a_j_o_r_lazar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/m_a_j_o_r_lazar)  
 <br>
 
 ## Languages and Tools💻
