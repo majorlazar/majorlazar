@@ -6,20 +6,17 @@
 
 -🎓 I am a Computer Engineering student
 
--📱 I’m an Android Developer
-
 -✨  I’m currently learning everything about Frontend and Backend technologies 😅
 
 
 -💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-⚡ What I like to do: I like so much listening to music, cricket , watching tv shows and movies ...and coding of course
 <br>
 <br>
 
 ## Reach me out📬 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sreeeram.C.R-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeram-c-r-1716b61b5/) [![Mail Badge](https://img.shields.io/badge/-sreeramcr00@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sreeramcr00@gmailcom) [![Twitter Badge](https://img.shields.io/badge/-@SreeramCR00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/SreeramCR00)  
+[![Linkedin Badge](https://img.shields.io/badge/-Christylazar Antony-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christylazar antont-1716b61b5/) [![Mail Badge](https://img.shields.io/badge/-majorchristylazar@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:majorchristylazar@gmailcom) [![Twitter Badge](https://img.shields.io/badge/-@m_a_j_o_r_lazar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/m_a_j_o_r_lazar)  
 <br>
 
 ## Languages and Tools💻
