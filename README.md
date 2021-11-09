@@ -2,6 +2,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=majorlazar&label=Profile%20views&color=0e75b6&style=flat" alt="majorlazar" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -19,8 +21,6 @@
 
 ## Catch me on 📬 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majorlazar&label=Profile%20views&color=0e75b6&style=flat" alt="majorlazar" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <p align="center">
   <a href = "https://twitter.com/m_a_j_o_r_lazar?t=5CoLBReXpc5o6WFiqUmrqA&s=08"><img align="center" src="https://images.squarespace-cdn.com/content/v1/59f216e1268b9618561e9a55/1509136128374-XGJ2YFGQ6KNEB1IM99XC/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" height="30" width="40" /></a>&emsp;&emsp; 
