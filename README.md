@@ -17,7 +17,7 @@
 ## Catch me on 📬 
 
 <p align="center">
-  <a href = "https://twitter.com/m_a_j_o_r_lazar?t=5CoLBReXpc5o6WFiqUmrqA&s=08"><img align="center" src="https://www.seekpng.com/ima/u2q8w7o0q8a9w7r5/" height="30" width="40" /></a>&emsp;&emsp; 
+  <a href = "https://twitter.com/m_a_j_o_r_lazar?t=5CoLBReXpc5o6WFiqUmrqA&s=08"><img align="center" src="https://images.squarespace-cdn.com/content/v1/59f216e1268b9618561e9a55/1509136128374-XGJ2YFGQ6KNEB1IM99XC/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" height="30" width="40" /></a>&emsp;&emsp; 
 <a href="https://www.linkedin.com/in/christylazar-antony-6b39511b6/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Christylazar_Antony" height="30" width="40" /></a> &emsp;&emsp; 
  <a href="https://www.instagram.com/m_a_j_o_r_lazar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="m_a_j_o_r_lazar" height="30" width="40" /></a> &emsp;&emsp;
 <a href="https://www.facebook.com/ChristylazarAntony007/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>  &emsp; &emsp; 
