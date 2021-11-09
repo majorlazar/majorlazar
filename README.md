@@ -6,13 +6,13 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
--🎓 I am a Computer Engineering student
+-🎓 I am a Computer Engineering student 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 -✨  I’m currently learning everything about Frontend and Backend technologies 😅
 
 -💪🏼 Future Goals: Learn more technologies..Never stop creating new ideas.
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## Catch me on 📬 
 
