@@ -34,14 +34,12 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-
-|![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+|![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)|![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)|![](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)|![](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)|![](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)|![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)|![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)|
-|![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)|![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)|![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)|![](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)|![](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)|
+|![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)|![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)|![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)|![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)|
+|![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)|![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)|![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)|![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)|
 <br>
 <br>
-
 
 ## Github Stats
 
