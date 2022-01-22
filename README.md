@@ -55,7 +55,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=majorlazar&theme=react-dark&hide_border=true&area=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
+<!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>-->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
