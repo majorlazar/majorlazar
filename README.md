@@ -34,10 +34,9 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-|![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)|![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+|![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
 |---|---|---|---|
-|![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)|![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)|![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)|
-|![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)|![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)|![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)|
+|![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)|![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)|![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)|
 |![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)|![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)|![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
 <br>
 <br>
